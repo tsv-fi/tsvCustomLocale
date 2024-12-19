@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+
+msgid "reviewer.article.decision.accept"
+msgstr "Accept"
+
+msgid "reviewer.article.decision.pendingRevisions"
+msgstr "Minor revisions"
+
+msgid "reviewer.article.decision.resubmitHere"
+msgstr "Major revisions"
+
+msgid "reviewer.article.decision.decline"
+msgstr "Decline"
+
+msgid "reviewer.article.decision.resubmitElsewhere"
+msgstr "--"
+
+msgid "reviewer.article.decision.seeComments"
+msgstr "--"
+

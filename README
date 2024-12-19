@@ -1,0 +1,9 @@
+# TSV Custom Locale Plugin
+
+A simple plugin designed to override specific translations in an OJS (Open Journal Systems) installation.
+
+With this plugin, you can easily define custom translations by creating a customLocale.po file. This file should be placed in a directory structured by the Context ID (Journal ID) and target locale. For example: customLocale/1/en_US/customLocale.po. You can have several of these files for different Contexts and locales.
+
+***
+Plugin created by The Federation of Finnish Learned Societies (https://tsv.fi/en/).
+***
